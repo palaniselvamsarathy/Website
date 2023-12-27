@@ -219,6 +219,7 @@ section {
   height: 2rem;
 }
 
+
 /* BUTTONS */
 
 .btn-container {
@@ -435,4 +436,8 @@ footer {
 
 footer p {
   text-align: center;
+}
+
+.para{
+  text-align: justify;
 }
