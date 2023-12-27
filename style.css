@@ -191,6 +191,7 @@ section {
 
 .section__text__p1 {
   text-align: center;
+  margin-top: 10px;
 }
 
 .section__text__p2 {
@@ -350,7 +351,7 @@ section {
 article {
   display: flex;
   width: 10rem;
-  justify-content: space-around;
+  justify-content: flex-start;
   gap: 0.5rem;
 }
 
